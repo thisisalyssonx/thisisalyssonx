@@ -1,4 +1,4 @@
-#👋 Olá! Me chamo Alysson!
+👋 Olá! Me chamo Alysson!
 
 Sou um desenvolvedor Front-end e UI/UX. No momento, estou aprendendo JavaScript!
 
