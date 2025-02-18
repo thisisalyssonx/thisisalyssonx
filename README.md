@@ -19,13 +19,15 @@ Sou um desenvolvedor Front-end e UX/UI. No momento, estou aprendendo React!
 ## 🎮 Um pouco mais sobre mim
 Além de programar, provavelmente estarei jogando videogames 🎮, ouvindo música 🎧. Estou sempre aberto a colaborar em novos projetos, então fique à vontade para entrar em contato!
 ## Skills & Tools:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-17181E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML](https://img.shields.io/badge/Html-F24E1E?style=for-the-badge&logo=html&logoColor=black)
-![CSS](https://img.shields.io/badge/Css-F24E1E?style=for-the-badge&logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/Css-2062AF?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-163039?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisalysson)
