@@ -1,6 +1,6 @@
 👋 Olá! Me chamo Alysson!
 
-Sou um desenvolvedor Front-end e UI/UX. No momento, estou aprendendo JavaScript!
+Sou um desenvolvedor Front-end e UX/UI. No momento, estou aprendendo JavaScript!
 
 ## 🚀 No que estou trabalhando?
 - Desenvolvimento de novos projetos para construção do meu portfólio.
@@ -14,7 +14,7 @@ Sou um desenvolvedor Front-end e UI/UX. No momento, estou aprendendo JavaScript!
 ## 🔧 Tecnologias com as quais estou trabalhando
 - **Idiomas:** Python, JavaScript.
 - **Ferramentas e Frameworks:** APIs, React.
-- **Metas Futuras:** Dev Web e UI/UX.
+- **Metas Futuras:** Dev Web e UX/UI.
 
 ## 🎮 Um pouco mais sobre mim
 Além de programar, provavelmente estarei jogando videogames 🎮, ouvindo música 🎧. Estou sempre aberto a colaborar em novos projetos, então fique à vontade para entrar em contato!
