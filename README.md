@@ -8,7 +8,7 @@ Sou um desenvolvedor Front-end e UX/UI. No momento, estou aprendendo React!
 - Explorando novas tecnologias como Tailwind CSS.
 
 ## 💻 Projetos recentes
-- Criação completa da UI de um aplicativo(PayPass).
+- Criação completa da UX/UI de um aplicativo(PayPass).
 - Criação de um jogo mobile para ensinar inglês.
 
 ## 🔧 Tecnologias com as quais estou trabalhando
