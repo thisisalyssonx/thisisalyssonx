@@ -23,7 +23,7 @@ Além de programar, provavelmente estarei jogando videogames 🎮, ouvindo músi
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/Html-F24E1E?style=for-the-badge&logo=html&logoColor=black)
-![CSS](https://img.shields.io/badge/Html-F24E1E?style=for-the-badge&logo=html&logoColor=black)
+![CSS](https://img.shields.io/badge/Css-F24E1E?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![UX/UI](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
