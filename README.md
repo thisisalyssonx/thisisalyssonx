@@ -1,11 +1,11 @@
 👋 Olá! Me chamo Alysson!
 
-Sou um desenvolvedor Front-end e UX/UI. No momento, estou aprendendo JavaScript!
+Sou um desenvolvedor Front-end e UX/UI. No momento, estou aprendendo React!
 
 ## 🚀 No que estou trabalhando?
 - Desenvolvimento de novos projetos para construção do meu portfólio.
-- Focado em aprender JavaScript e UI/UX.
-- Explorando novas tecnologias como React.
+- Focado em aprender React e UX/UI.
+- Explorando novas tecnologias como Tailwind CSS.
 
 ## 💻 Projetos recentes
 - Criação completa da UI de um aplicativo(PayPass).
