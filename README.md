@@ -1,6 +1,6 @@
 👋 Olá! Me chamo Alysson!
 
-Sou um desenvolvedor Front-end e UX/UI. No momento, estou aprendendo React!
+Sou um desenvolvedor Front-end e UX/UI Designer. 
 
 ## 🚀 No que estou trabalhando?
 - Desenvolvimento de novos projetos para construção do meu portfólio.
